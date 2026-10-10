@@ -18,7 +18,7 @@ Program **PeopleData** dibangun menggunakan dua class utama (`Person` dan `Peopl
 ```mermaid
 classDiagram
     JFrame <|-- PeopleMenu : extends
-    PeopleMenu o-- Person : ArrayList~Person~
+    PeopleMenu o-- Person : Agregasi (ArrayList~Person~)
 
     class Person {
         -id : String
