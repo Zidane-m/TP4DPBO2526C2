@@ -128,31 +128,28 @@ Class turunan `JFrame` yang mengatur tampilan antarmuka pengguna (GUI) dan selur
 
 ---
 
-## 3. Dokumentasi Program
+## 3. Dokumentasi Program (CRUD)
 
-> Simpan file screenshot atau rekaman layar (GIF/Video) pengujian seluruh operasi CRUD (Tampilan Awal, Insert/Add, Update, Confirmation Prompt Delete, dan hasil Delete) di dalam folder `Dokumentasi/`, lalu sesuaikan nama filenya di bawah ini.
-
-### Dokumentasi/Screenshot CRUD
-#### 1. Tambah Data
+### 1. Tambah Data
 ![tambah data](Dokumentasi/isi_tambah_data.png)
 ![tambah data berhasil](Dokumentasi/tambah_data_berhasil.png)
 
-#### 2. Hapus Data
+### 2. Hapus Data
 ![hapus data](Dokumentasi/konfirmasi_hapus_data.png)
 ![hapus data](Dokumentasi/data_hapus_berhasil.png)
 
-#### 3. Update Data
+### 3. Update Data
 ![pilih data yang di update](Dokumentasi/update_data_pilih.png)
 ![update data](Dokumentasi/update_data.png)
 ![update data berhasil](Dokumentasi/update_data_berhasil.png)
 
-#### 4. Eror Handling
-##### 4.1 Field Kosong
+### 4. Eror Handling
+#### 1 Field Kosong
 ![field kosong](Dokumentasi/eror_handling_field_kosong.png)
 
-##### 4.2 ID telah digunakan
+#### 2 ID telah digunakan
 ![id digunakan](Dokumentasi/eror_handling_id_sama.png)
 
-##### 4.3 Tipe Tahun Salah
+#### 3 Tipe Tahun Salah
 ![tipe tahun salah](Dokumentasi/eror_handling_tipe_tahun.png)
 
